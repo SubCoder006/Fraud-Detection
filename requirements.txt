@@ -1,0 +1,25 @@
+# Core data handling
+pandas>=2.1
+numpy>=1.26
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.18
+
+# Machine learning
+scikit-learn>=1.4
+xgboost>=2.0
+
+# Deep learning (optional: only needed for the neural network / autoencoder experiments)
+tensorflow>=2.16
+
+# Explainability
+shap>=0.44
+
+# Application
+streamlit>=1.32
+
+# Notebook environment
+jupyter>=1.0
+ipykernel>=6.29
